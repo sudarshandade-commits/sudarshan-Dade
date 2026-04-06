@@ -27,4 +27,4 @@ Hi, I am Sudarshan Dade, an aspiring AI/ML currently pursuing my engineering stu
 </html> 
 
  2. CSS (style.css)
-    
+        
