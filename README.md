@@ -73,4 +73,5 @@ button:hover {
     font-size: 18px;
     font-weight: bold;
 }
-
+3. JavaScript (script.js)
+         
