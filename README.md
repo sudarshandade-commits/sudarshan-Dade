@@ -25,3 +25,6 @@ Hi, I am Sudarshan Dade, an aspiring AI/ML currently pursuing my engineering stu
 <script src="script.js"></script>
 </body>
 </html> 
+
+ 2. CSS (style.css)
+    
